@@ -1,4 +1,5 @@
-Name - Automatic Volume Control
+Name - Automatic Volume Control based
+Description - Controls the volume of speaker based on amplitude of mic input. Minimum threshold is system's volume at the start of the program and maximum is system's max volume. 
 
 Execution Steps - 
 1. Compile all java files from src and keep them besides manifest.txt file.
