@@ -1,4 +1,4 @@
-Name - Automatic Volume Control based
+Name - Automatic Volume Control
 
 Description - Controls the volume of speaker based on amplitude of mic input. Minimum threshold is system's volume at the start of the program and maximum is system's max volume. 
 
