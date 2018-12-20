@@ -1,14 +1,28 @@
-Name - Automatic Volume Control
+# Automatic Volume Control
 
 Description - Controls the volume of speaker based on amplitude of mic input. Minimum threshold is system's volume at the start of the program and maximum is system's max volume. 
 
 Execution Steps - 
+
+Download the AutomaticVolumeControl.jar file and execute it using below command
+```
+java -jar AutomaticVolumeControl.jar
+```
+
+OR 
+
+
 1. Compile all java files from src and keep them besides manifest.txt file.
+```
+javac -d . src/*
+```
 
 2. Execute below command to create an executable JAR.
+```
 jar -cvfm AutomaticVolumeControl.jar manifest.txt *.class
+```
 
-OR
-
-Download the JAR file and execute it using below command
+3. Execute the created executable JAR.
+```
 java -jar AutomaticVolumeControl.jar
+```
