@@ -2,7 +2,7 @@
 
 Description - Controls the volume of speaker based on amplitude of mic input. Minimum threshold is system's volume at the start of the program and maximum is system's max volume. 
 
-Execution Steps - 
+**Execution Steps -** 
 
 Download the AutomaticVolumeControl.jar file and execute it using below command
 ```
@@ -27,9 +27,9 @@ jar -cvfm AutomaticVolumeControl.jar manifest.txt *.class
 java -jar AutomaticVolumeControl.jar
 ```
 
-Usage - 
+**Usage -**
 1. Play a sound/music
 2. Run the program and click on "Start" button.
 3. Speak into the mic and observe the increase in speaker volume.
 
-Operating System - Ubuntu 16.04.3 LTS
+**Operating System -** Ubuntu 16.04.3 LTS
