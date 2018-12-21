@@ -31,3 +31,5 @@ Usage -
 1. Play a sound/music
 2. Run the program and click on "Start" button.
 3. Speak into the mic and observe the increase in speaker volume.
+
+Operating System - Ubuntu 16.04.3 LTS
