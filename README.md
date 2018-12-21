@@ -26,3 +26,8 @@ jar -cvfm AutomaticVolumeControl.jar manifest.txt *.class
 ```
 java -jar AutomaticVolumeControl.jar
 ```
+
+Usage - 
+1. Play a sound/music
+2. Run the program and click on "Start" button.
+3. Speak into the mic and observe the increase in speaker volume.
