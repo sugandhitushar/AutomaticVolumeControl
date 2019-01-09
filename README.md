@@ -2,6 +2,10 @@
 
 Description - Controls the volume of speaker based on amplitude of mic input. Minimum threshold is system's volume at the start of the program and maximum is system's max volume. 
 
+**Output -**
+
+![](automatic-volume-control.gif)
+
 **Execution Steps -** 
 
 Download the AutomaticVolumeControl.jar file and execute it using below command
