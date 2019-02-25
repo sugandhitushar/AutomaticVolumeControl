@@ -39,3 +39,7 @@ java -jar AutomaticVolumeControl.jar
 3. Speak into the mic and observe the increase in speaker volume.
 
 **Operating System -** Ubuntu 16.04.3 LTS
+
+## License
+
+[MIT](LICENSE)
