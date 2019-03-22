@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/sugandhitushar/automatic-volume-control/blob/master/LICENSE)
 
-# Automatic Volume Control
+# Automatic Volume Control / Noise cancellation
 
 Description - Controls the volume of speaker based on amplitude of mic input. Minimum threshold is system's volume at the start of the program and maximum is system's max volume. 
 
